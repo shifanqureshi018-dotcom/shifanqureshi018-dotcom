@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Shifwan 👋
 
-<!--
-**shifanqureshi018-dotcom/shifanqureshi018-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+📍 Jaipur, Rajasthan | 📧 shifanqureshi018@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋 About Me
+- 🎓 BCA in Data Science — Suresh Gyan Vihar University
+- 📊 Passionate about turning raw data into business insights
+- 🌱 Currently learning: SQL Advanced Queries & Power BI DAX
+- 💼 Open to Data Analyst Internships
+
+---
+
+## 🛠️ Skills
+| Category | Tools |
+|---|---|
+| Languages | Python, SQL, R, Java |
+| Visualization | Power BI, Tableau, Excel |
+| Libraries | Pandas, NumPy, Matplotlib, Seaborn |
+| Analysis | EDA, Statistical Analysis, Data Modeling |
+
+---
+
+## 📂 Projects
+
+### 🛒 Amazon Sales Report Analysis
+- Analyzed 3,500+ orders | Revenue: ₹23.2L | AOV: ₹625
+- Tools: Python, Pandas, Seaborn
+- Top states: Maharashtra, Karnataka (40%+ revenue)
+
+### 🚗 Auto MPG Fuel Efficiency Analysis
+- Analyzed 392 vehicle records for fuel efficiency patterns
+- MPG vs Weight: -0.83 | MPG vs Horsepower: -0.78
+- Tools: Python, Correlation Analysis, Heatmaps
+
+### 📊 Global Job Market Dashboard
+- Salary trends across 50+ countries
+- Senior Data Scientist: $155K | ML Engineer: $150K
+- Tools: Advanced Excel, Pivot Tables, Slicers
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/shifwan-qureshi-644151323/
+- 📧 Email: shifanqureshi018@gmail.com
