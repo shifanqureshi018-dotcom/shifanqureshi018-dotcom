@@ -41,6 +41,11 @@
 - Senior Data Scientist: $155K | ML Engineer: $150K
 - Tools: Advanced Excel, Pivot Tables, Slicers
 
+### 🛒 Olist E-Commerce Sales Analysis
+- Analyzed 100K+ orders across 9 SQL tables
+- Built 4-page interactive Power BI dashboard
+- Tools: MySQL, Power BI, DAX
+
 ---
 
 ## 📫 Connect With Me
